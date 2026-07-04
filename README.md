@@ -8,4 +8,6 @@ July 2: Returned to DataCamp going over semi-familiar material covering Python s
 
 July 3: Birthday - day off!
 
-July 4:
+July 4: Morning 30 minutes. Started on FUNCTIONS and METHODS. Made more sense this time. Functions are ready-made code that makes life easier. You can ask how a function works by going help() or ?. Methods are functions that belong to objects and will behave depending on which object you use them on e.g. list, string, floats. You can do .index and .count AND some method change the original object e.g. .append. Packages are up tomorrow!
+
+July 5th
