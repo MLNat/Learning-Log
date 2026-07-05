@@ -10,4 +10,4 @@ July 3: Birthday - day off!
 
 July 4: Morning 30 minutes. Started on FUNCTIONS and METHODS. Made more sense this time. Functions are ready-made code that makes life easier. You can ask how a function works by going help() or ?. Methods are functions that belong to objects and will behave depending on which object you use them on e.g. list, string, floats. You can do .index and .count AND some method change the original object e.g. .append. Packages are up tomorrow!
 
-July 5th
+July 5th: Morning 31 minutes. PACKAGES today - NUMPY was the focus and within that ARRAYS. Best practice labelling them np. to be clear; arrays behave differently from lists. There is a special thing that looks like a method becuase the grammar is ".XYZ", but methods always have () after them. ".shape" is an ATTRIBUTE, because it is stored data and you are just looking at it, you are not DOING anything to the data. Tomorrow... 2D Numpy Arrays.
