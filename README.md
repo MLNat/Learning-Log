@@ -16,4 +16,6 @@ July 6th: Morning 32 minutes. Finished the first course (yay) on Python basics w
 
 BONUS: Couldn't resist going for another 15 mins on the lunchbreak. Finished scatter plots and histograms. Understood that you sort of develop graphs in sequence and you cannot "store" a plt.plot() in the same way you can a list just by leaving it. Once you write plt.show() it kind of "prints" it and then it will print it each time. So if you want to work on a bunch of plots before "printing" them, you can just write plt.figure() - courtesy of Claude. However, I'm still not quite clear what plt.clf() actually does -- I understand it is like a reset / clear, like clears the plot you have been working on. I'm sure I'll get a better grasp with applied practice.
 
-July 7th: 
+July 7th: Morning 31 minutes. Finished editing and customising plots including ticks, labels, colour, transparency e.g. (alpha = 0.8) -- and began work on dictionaries - useful at the very least for not having to type so much code via indexing. Had to go over methods again as that was beginning to fade from my mind. They vary a lot and are for specific object types. Worth going over dictionaries again tomorrow as some of the bracketing is not altogether clear on reflection. Dictionaries and dataframes up next. 
+
+July 8th: 
