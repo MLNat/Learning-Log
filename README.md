@@ -18,4 +18,6 @@ BONUS: Couldn't resist going for another 15 mins on the lunchbreak. Finished sca
 
 July 7th: Morning 31 minutes. Finished editing and customising plots including ticks, labels, colour, transparency e.g. (alpha = 0.8) -- and began work on dictionaries - useful at the very least for not having to type so much code via indexing. Had to go over methods again as that was beginning to fade from my mind. They vary a lot and are for specific object types. Worth going over dictionaries again tomorrow as some of the bracketing is not altogether clear on reflection. Dictionaries and dataframes up next. 
 
-July 8th: 
+July 8th: Morning 30 minutes. Aware getting into brand new areas at the end of this session (loc, iloc). Today was more dictionary manipulation, importing csv files and introduction to dataframes. Something learned - depending if you want true / false or value... print('italy' in europe) will return T/F; while print(europe['italy'] will return the value.
+
+July 9th: 
