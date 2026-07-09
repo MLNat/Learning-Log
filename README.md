@@ -1,7 +1,6 @@
 # Learning-Log
 Documenting my progress improving my data engineering skills
 
-
 July 1: The focus is building Python and SQL skills to support me build a career in energy and climate data work.
 
 July 2: Returned to DataCamp going over semi-familiar material covering Python str, int, boolean and lists. Some key things to remember. Print() with rounded brackets; lists with [] square brackets; indexing starts from 0 left to right, -1 right to left and x: just goes to the end. When extracting or editing a subsection of a list the first number is included, but the second number is excluded. E.g. 4:6 is just index item 4 and 5. Negative list would go -5:-3 as you still read along from left, even if indexing is from the right. + functions differently for str, int, boolean and lists - lists just merge if you do that. PART2: Popped back on for 10 minutes to go over content.
@@ -20,4 +19,10 @@ July 7th: Morning 31 minutes. Finished editing and customising plots including t
 
 July 8th: Morning 30 minutes. Aware getting into brand new areas at the end of this session (loc, iloc). Today was more dictionary manipulation, importing csv files and introduction to dataframes. Something learned - depending if you want true / false or value... print('italy' in europe) will return T/F; while print(europe['italy'] will return the value.
 
-July 9th: 
+DAY 9: July 9th: Finished loc and iloc -- very straightforward in fact. Single and double brackets return array / dataframe is worth remembering. Started on comparisons which were straightforward. Next two lessons will be new and then into loops which seem like a large and important area to grasp. GOT Through day 9 as well which is a fall-off point.
+
+July 10th: 
+
+DAY 42 - August 12th: 
+
+DAY 66 - September 5th: 
