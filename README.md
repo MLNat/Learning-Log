@@ -21,7 +21,9 @@ July 8th: Morning 30 minutes. Aware getting into brand new areas at the end of t
 
 DAY 9: July 9th: Finished loc and iloc -- very straightforward in fact. Single and double brackets return array / dataframe is worth remembering. Started on comparisons which were straightforward. Next two lessons will be new and then into loops which seem like a large and important area to grasp. GOT Through day 9 as well which is a fall-off point.
 
-July 10th: 
+July 10th: Morning 35 minutes. Did and/or/nots which are straightforward, if ifel and else which are also pretty intuitive and making sense - including importance of the : and the indent. Filtering panda dataframes I did after time and need to revisit tomorrow as not the clearest in my head.
+
+July 11th: 
 
 DAY 42 - August 12th: 
 
