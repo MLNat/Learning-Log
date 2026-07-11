@@ -23,7 +23,13 @@ DAY 9: July 9th: Finished loc and iloc -- very straightforward in fact. Single a
 
 July 10th: Morning 35 minutes. Did and/or/nots which are straightforward, if ifel and else which are also pretty intuitive and making sense - including importance of the : and the indent. Filtering panda dataframes I did after time and need to revisit tomorrow as not the clearest in my head.
 
-July 11th: 
+July 11th: Morning 60: Much more challenging today - on loops on dataframes and numpy arrays. iterrows() were a bit tricky to get my head around initially, and maybe a bit tired on a Saturday morning.
+
+BONUS: Started on the capstone, it is really applying this theoretical learning now, and is probably the realistic point it begins to get tough / uphill and not just a nice new habit via DataCamp.
+
+July 12th: 
+
+END OF TOUGH WEEK ONE: July 18th
 
 DAY 42 - August 12th: 
 
