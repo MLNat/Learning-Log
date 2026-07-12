@@ -27,7 +27,9 @@ July 11th: Morning 60: Much more challenging today - on loops on dataframes and 
 
 BONUS: Started on the capstone, it is really applying this theoretical learning now, and is probably the realistic point it begins to get tough / uphill and not just a nice new habit via DataCamp.
 
-July 12th: 
+July 12th: Morning and afternoon 60 each. Finished the loops and was easier this time around -- keep doing the look ahead and go over material. Did the first project! That was hard and definitely showed that I have to start using this on projects. It was the netflix movies. Worth going over looping, perhaps before proceeding as not sure of reason for every step at the moment, including .iterrows()
+
+July 13: 
 
 END OF TOUGH WEEK ONE: July 18th
 
