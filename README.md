@@ -29,7 +29,9 @@ BONUS: Started on the capstone, it is really applying this theoretical learning 
 
 July 12th: Morning and afternoon 60 each. Finished the loops and was easier this time around -- keep doing the look ahead and go over material. Did the first project! That was hard and definitely showed that I have to start using this on projects. It was the netflix movies. Worth going over looping, perhaps before proceeding as not sure of reason for every step at the moment, including .iterrows()
 
-July 13: 
+July 13: Did some pandas data aggregation exercise with the AI tool in DC. It was so slow and frustating - and then tried to upsell more credits to get more AI teaching. Terrible feature. But easier day and good to practice and keep the rhythm going.
+
+July 14th: 
 
 END OF TOUGH WEEK ONE: July 18th
 
