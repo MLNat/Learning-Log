@@ -31,7 +31,11 @@ July 12th: Morning and afternoon 60 each. Finished the loops and was easier this
 
 July 13: Did some pandas data aggregation exercise with the AI tool in DC. It was so slow and frustating - and then tried to upsell more credits to get more AI teaching. Terrible feature. But easier day and good to practice and keep the rhythm going.
 
-July 14th: 
+July 14th: Missed Day!
+
+July 15th: 40 minutes morning. Going over some dataframe sorting and using, getting more confident with square brackets. The next chapters cover some familiar ground, but a good chance to practice.
+
+July 16th: 
 
 END OF TOUGH WEEK ONE: July 18th
 
