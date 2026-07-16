@@ -35,7 +35,9 @@ July 14th: Missed Day!
 
 July 15th: 40 minutes morning. Going over some dataframe sorting and using, getting more confident with square brackets. The next chapters cover some familiar ground, but a good chance to practice.
 
-July 16th: 
+July 16th: 30 minutes EOD. Didn't feel like it, but made it there before dins. Summary Statitics and Aggregating Dataframes. Left off on something I'm not totally sure of because dinner is ready. Back to it tomorrow.
+
+July 17th: 
 
 END OF TOUGH WEEK ONE: July 18th
 
