@@ -37,7 +37,7 @@ July 15th: 40 minutes morning. Going over some dataframe sorting and using, gett
 
 July 16th: 30 minutes EOD. Didn't feel like it, but made it there before dins. Summary Statitics and Aggregating Dataframes. Left off on something I'm not totally sure of because dinner is ready. Back to it tomorrow.
 
-July 17th: 
+July 17th: 45 minutes morning. Today was aggregating dataframes - which included pivot tables and the .agg() function again e.g. .agg("min", "max", "median"). It's a big section I'm working through, but time series is within sight!
 
 END OF TOUGH WEEK ONE: July 18th
 
