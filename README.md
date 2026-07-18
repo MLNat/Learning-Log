@@ -39,7 +39,9 @@ July 16th: 30 minutes EOD. Didn't feel like it, but made it there before dins. S
 
 July 17th: 45 minutes morning. Today was aggregating dataframes - which included pivot tables and the .agg() function again e.g. .agg("min", "max", "median"). It's a big section I'm working through, but time series is within sight!
 
-END OF TOUGH WEEK ONE: July 18th
+END OF TOUGH WEEK ONE: July 18th -- That was tough week but not for this LOL. Afternoon 90 minutes doing some practice and getting to the end of indexes. Labelled instructions seem like they don't need to be in the right order if they have name = XYZ etc. Still some things I'm not totally getting here around slicing pivot tables and the brackets. Worth at some point soon going back to the basics and gettin very clear on the basics of te language and rules. Maybe there is a good YouTube video and can write some rare targeted notes?
+
+July 19th: 
 
 DAY 42 - August 12th: 
 
