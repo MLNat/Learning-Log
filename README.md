@@ -45,7 +45,7 @@ July 19th: Day off!
 
 July 20th: 25 mins pre appointment. Revision of the chapter, aggregating dataframes - feeling more confident about the content I had covered before. More revision tomorrow and then press onto new material.
 
-July 21st: 
+July 21st: 55 mins am/pm. Revision was good today and finishing up the "Data Manipulation with Pandas" module now. 
 
 DAY 42 - August 12th: 
 
