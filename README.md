@@ -47,6 +47,12 @@ July 20th: 25 mins pre appointment. Revision of the chapter, aggregating datafra
 
 July 21st: 55 mins am/pm. Revision was good today and finishing up the "Data Manipulation with Pandas" module now. 
 
+July 22nd: Day off! Bad morning. 
+
+July 23rd: Reviewed tuples, sets and lists on YouTube which was useful and started on merging dataframes in pandas. Beginning to get excited about the data analysis that would be possible through this, including on the China data. Looking forward to understanding how SQL fits into this part as well when I get there too.
+
+July 24th: 
+
 DAY 42 - August 12th: 
 
 DAY 66 - September 5th: 
