@@ -51,7 +51,9 @@ July 22nd: Day off! Bad morning.
 
 July 23rd: Reviewed tuples, sets and lists on YouTube which was useful and started on merging dataframes in pandas. Beginning to get excited about the data analysis that would be possible through this, including on the China data. Looking forward to understanding how SQL fits into this part as well when I get there too.
 
-July 24th: 
+July 24th: Morning 30. YouTube was helpful on the .agg({}) function. Datacamp we covered left joins and joins which was useful and fairly straightforward. Cuts to the heart of wanting to build up the Chinese provincial and central data and looks as though I might be able to start doing that.
+
+July 25th: 
 
 DAY 42 - August 12th: 
 
